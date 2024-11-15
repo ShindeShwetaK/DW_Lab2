@@ -36,7 +36,7 @@ In the context of this lab, the primary challenge is to build a robust data pipe
    - 1st load data in staging table DEV.STOCK.STOCK_PRICE_STAGE and then in main table DEV.STOCK.STOCK_PRICE_ANALYSIS
 
 5. **Advance Calculation**
-   -Perform MACD and RSI calculation on the data.
+   - Perform MACD and RSI calculation on the data.
   
 6. **Results**
    - Summarized the results of the forecasting model and provided insights based on the analysis.
