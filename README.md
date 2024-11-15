@@ -4,6 +4,7 @@
 ## Project Overview
 
 This project is part of the Data Warehousing course at San Jose State University. The objective of Lab 2 is to demonstrate the process of data loading, data transformation, and advance calculation using Apache Airflow, Docker, dbt Snowflake.
+
 **Step 1**
 -ETL focuses on establishing a data pipeline that connects a source database, processes the data, and loads it into a Snowflake data warehouse for analysis using Docker and Airflow.
 
@@ -70,8 +71,6 @@ In the context of this lab, the primary challenge is to build a robust data pipe
 - **Plots**:
   - **Histogram Gragh**
   - **Bar Plot**
- 
-
   
 ## Conclusion
 
