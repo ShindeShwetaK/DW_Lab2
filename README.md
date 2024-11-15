@@ -71,6 +71,7 @@ In the context of this lab, the primary challenge is to build a robust data pipe
 - **Plots**:
   - **Histogram Gragh**
   - **Bar Plot**
+  - **Bar and Line Plot**
   
 ## Conclusion
 
